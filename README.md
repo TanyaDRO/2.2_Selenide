@@ -1,0 +1,1 @@
+**Selenide** [![Build status](https://ci.appveyor.com/api/projects/status/cl7low9jrxu4wbfn?svg=true)](https://ci.appveyor.com/project/TanyaDRO/2-2-selenide)
